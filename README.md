@@ -17,10 +17,15 @@ Data Management using SQL
 Installation: To run this project, you need to install the following packages:
 
 pip install mysql-connector-python
+
 pip install pandas
+
 pip install google-api-python-client
+
 pip install streamlit
+
 pip install requests-cache
+
 Features  Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.  Store the retrieved data in a SQL database.  Analyze data using Streamlit  Perform queries on the SQL data warehouse.  Gain insights into channel performance, video metrics, and more.
 
 Retrieving data from the YouTube API: The project utilizes the Google API to retrieve comprehensive data from YouTube channels. The data includes information on channels, playlists, videos, and comments. By interacting with the Google API, we collect the data and merge it into a JSON file.
