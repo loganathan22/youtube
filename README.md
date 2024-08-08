@@ -5,10 +5,15 @@ Introduction YouTube Data Harvesting and Warehousing is a project aimed at devel
 Key Technologies and Skills
 
 Python scripting
+
 Data Collection
+
 API integration
+
 Streamlit
+
 Data Management using SQL
+
 Installation: To run this project, you need to install the following packages:
 
 pip install mysql-connector-python
